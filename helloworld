@@ -1,0 +1,8 @@
+<html>
+<head>
+<title>This is a simple hello world testing page.</title>
+</head>
+<body>
+<h2><?php echo 'Hello World';?></h2>
+</body>
+</html>
